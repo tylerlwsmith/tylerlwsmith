@@ -1,6 +1,6 @@
 ### Hi there, I'm Tyler 👋
 
-I'm a programmer that specializes in web application development. I've built projects using a wide array of technologies that includes Django, Express.js, Ruby on Rails, Vue and WordPress, but my most frequently used tools are Laravel and React. For a full overview of my experience, you can check out [RaspberryTyler.com](https://raspberrytyler.com) or visit [my resume's repo](https://github.com/tylerlwsmith/resume).
+I'm a programmer that specializes in web application development. I've built projects using a wide array of technologies that includes Django, Express.js, Ruby on Rails, Vue and WordPress, but my most frequently used tools are Laravel and React. For a full overview of my experience, you can check out [my resume](https://raspberrytyler.com).
 
 I get pretty excited about code and technology, which is why I've been writing on [my dev.to blog](https://dev.to/tylerlwsmith) for about three years.
 
