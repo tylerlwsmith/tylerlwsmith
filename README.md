@@ -8,7 +8,7 @@ My GitHub profile is a little sparse right now, but I'm starting to open source 
 
 ### SacMusic.com
 
-[SacMusic.com](https://sacmusic.com) is an open mic listing site that I designed, built, and maintained for open mics in Sacramento prior to the pandemic. It was built with Django REST Framework, Next.js, PostgreSQL, Nginx and Docker. The listings haven't been maintained since COVID started 🙃
+[SacMusic.com](https://sacmusic.com) is an open mic listing site that I designed, built, and maintained for open mics in Sacramento prior to the pandemic. It was built with Django REST Framework, Next.js, Tailwind CSS, PostgreSQL, Nginx and Docker. The listings haven't been maintained since COVID started 🙃
 
 ### My resume website
 
@@ -22,7 +22,7 @@ Another fun fact about me programming 12-tone matrices: the first application I 
 
 ### CatalyticCrime.com
 
-[CatalyticCrime.com](https://catalyticcrime.com) was a project for tracking Catalytic Converter thefts in Bakersfield. I released it as a _super_ bare-bones MVP after about two weeks of development with the intention of making it prettier and adding a lot more features, but I couldn't get the data I needed to make the site worth visiting because of restrictive anti-scraping policies. 
+[CatalyticCrime.com](https://catalyticcrime.com) was a Laravel project I built for tracking Catalytic Converter thefts in Bakersfield. I released it as a _super_ bare-bones MVP after about two weeks of development with the intention of making it prettier and adding a lot more features, but I couldn't get the data I needed to make the site worth visiting because of restrictive anti-scraping policies. 
 I abandoned the project almost immediately after launching because of this 😢 You can read about all of my problems getting data in the [Data Acquisition section of the project's README](https://github.com/tylerlwsmith/catalyticcrime.com#data-acquisition).
 
 ---
