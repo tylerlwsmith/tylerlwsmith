@@ -27,7 +27,7 @@ I built my resume using web technologies. Modern CSS is a powerful layout langua
 
 When code is pushed to the main branch, the build process will use Puppeteer to generate an open graph image for the website, along with a PDF and PNG file of the resume. You can see the most recently generated image of the resume below, and you can take a look at the repo [here](https://github.com/tylerlwsmith/resume).
 
-![Tyler's resume](https://raspberrytyler.com/generated/tyler-smith-resume.png)
+![Tyler's resume](https://raspberrytyler.com/generated/tyler-smith-resume.png?cache-bust=2021-12-07)
 
 ---
 
