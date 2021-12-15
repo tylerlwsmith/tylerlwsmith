@@ -16,9 +16,9 @@ Long before I started coding professionally, I studied music for a few years. I 
 
 Another fun fact about me programming 12-tone matrices: the first application I ever completed was a 12-tone matrix builder that I wrote in QBasic when I was taking my atonal music theory class in 2009 (which was _well_ past the death of QBasic–don't ask). I have the source code in a [gist](https://gist.github.com/tylerlwsmith/36a622930dfe56f71735865cce9b3e9c). Don't look at it it's trash: it was my first application that I ever built and I had no idea what I was doing.
 
-### CatalyticCrime.com
+### Catalytic Crime
 
-[CatalyticCrime.com](https://catalyticcrime.com) was a Laravel project I built for tracking catalytic converter thefts in Bakersfield. I released it as a _super_ bare-bones MVP after about two weeks of development with the intention of making it prettier and adding a lot more features, but I couldn't get the data I needed to make the site worth visiting because of restrictive anti-scraping policies. 
+Catalytic Crime was a Laravel project I built for tracking catalytic converter thefts in Bakersfield. I released it as a _super_ bare-bones MVP after about two weeks of development with the intention of making it prettier and adding a lot more features, but I couldn't get the data I needed to make the site worth visiting because of restrictive anti-scraping policies. 
 I abandoned the project almost immediately after launching because of this 😢 You can read about all of my problems getting data in the [Data Acquisition section of the project's README](https://github.com/tylerlwsmith/catalyticcrime.com#data-acquisition).
 
 ### My resume
