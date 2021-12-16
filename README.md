@@ -6,6 +6,7 @@ Check out my: [DEV.to blog](https://dev.to/tylerlwsmith) / [Twitter](https://twi
 
 ### My resume
 
-![Tyler's resume](https://raspberrytyler.com/generated/tyler-smith-resume.png?cache-bust=2021-12-15)
+<img src="https://raspberrytyler.com/generated/tyler-smith-resume.png?cache-bust=2021-12-15" alt="Tyler's resume" width="500">
+
 _This resume was generated with web technologies. Wanna see how? Check out [the repo](https://github.com/tylerlwsmith/resume)._
 
