@@ -6,6 +6,6 @@ Check out my: [Website](https://deadhandmedia.com) / [DEV.to blog](https://dev.t
 
 ### Resume
 
-<img src="https://resume.deadhandmedia.com/generated/tyler-smith-resume.png?cache-bust=2021-12-15" alt="Tyler's resume" width="600">
+<img src="https://resume.deadhandmedia.com/generated/tyler-smith-resume.png?cache-bust=2022-01-28.1" alt="Tyler's resume" width="600">
 
 _This resume was generated with web technologies. Wanna see how? Check out [the repo](https://github.com/tylerlwsmith/resume)._
